@@ -1,2 +1,2 @@
-# tdesk
-Swedish &amp; English fastText Embeddings on the Transformer
+# Swedish &amp; English fastText Embeddings on the Transformer
+
