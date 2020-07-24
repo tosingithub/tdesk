@@ -1,2 +1,2 @@
-# Swedish &amp; English fastText Embeddings on the Transformer
+# Exploring Swedish &amp; English fastText Embeddings with the Transformer
 
