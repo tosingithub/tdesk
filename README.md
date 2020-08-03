@@ -16,5 +16,10 @@ Feel free to contact me for further enquiry.
 For now, please cite the soon-to-be-released Arxiv paper:
 
 <pre><code>
-
+@article{adewumi2020exploring,
+  title={Exploring Swedish & English fastText Embeddings with the Transformer},
+  author={Adewumi, Tosin P and Liwicki, Foteini and Liwicki, Marcus},
+  journal={arXiv preprint arXiv:2007.16007},
+  year={2020}
+}
 </code></pre>
