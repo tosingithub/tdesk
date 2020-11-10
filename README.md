@@ -1,10 +1,10 @@
 # Exploring Swedish &amp; English fastText Embeddings with the Transformer
 
 <h4>Codes:</h4>
-One source code file is for English NER and the other for Swedish NER, while there's a general purpose file also.
+One source code file is for English NER and the other for Swedish NER, while there's a general purpose file also. The preprocessed Wikipedia dump (4.2G) can be downloaded from <a href="https://drive.google.com/file/d/1zngnD_bQBxA_8TdQnAYXjTK4EukGJP4N/view?usp=sharing">here</a>.
 
 <h4>Models are available upon request:</h4>
-<a href="mailto:adewumi_tosin@hotmail.com">Request</a>
+
 
 <h4>License:</h4>
 All codes and models are released under CC-BY 4.0.
