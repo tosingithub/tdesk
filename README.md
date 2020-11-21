@@ -13,13 +13,23 @@ All codes and models are released under CC-BY 4.0.
 Feel free to contact me for further enquiry.
 
 <h4>How do I cite?</h4>
-For now, please cite the soon-to-be-released Arxiv paper:
+For now, please cite the relevant Arxiv paper (or the 2nd one, for the Corpora Compared paper presented at SLTC 2020):
 
 <pre><code>
 @article{adewumi2020exploring,
   title={Exploring Swedish & English fastText Embeddings with the Transformer},
   author={Adewumi, Tosin P and Liwicki, Foteini and Liwicki, Marcus},
   journal={arXiv preprint arXiv:2007.16007},
+  year={2020}
+}
+</code></pre>
+
+
+<pre><code>
+@article{adewumi2020corpora,
+  title={Corpora Compared: The Case of the Swedish Gigaword \& Wikipedia Corpora},
+  author={Adewumi, Tosin P and Liwicki, Foteini and Liwicki, Marcus},
+  journal={arXiv preprint arXiv:2011.03281},
   year={2020}
 }
 </code></pre>
